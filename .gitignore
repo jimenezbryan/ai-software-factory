@@ -1,0 +1,5 @@
+__pycache__/
+.archify/
+.playwright-mcp/
+.DS_Store
+*.finalize-summary.json
